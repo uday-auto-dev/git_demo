@@ -7,3 +7,7 @@ def add_numbers(a: int, b:int):
 def mult_number(a: int, b: int):
     print("Multiplying numbers method is calling !!!")
     print(f"The multiplication of {a} * {b} is : ", a * b)
+
+def divide_numbers(a:int, b:int):
+    print("Divide numbers method is calling !!!")
+    print(f"The Divide of {a} / {b} is : ", a / b)
